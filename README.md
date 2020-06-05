@@ -2,7 +2,7 @@
 
 Performance benchmarks for [hyper.rs][].
 
-There's not too much point in listing results here, that will just get stale. Instead, you can look at [TechEmpower's benchmarks](https://www.techempower.com/benchmarks/) to see a big comparison of web frameworks across a bunch of languages.
+There's not too much point in listing results here, that will just get stale. Instead, you can look at [TechEmpower's benchmarks](https://www.techempower.com/benchmarks/#section=data-r18&hw=ph&test=plaintext) to see a big comparison of web frameworks across a bunch of languages.
 
 **Spoilers:** hyper is one of the **fastest** *complete* HTTP implementations!
 
